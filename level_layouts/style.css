@@ -1,0 +1,156 @@
+@font-face {
+  font-family: 'latex';
+  src: url('latex.ttf');
+}
+
+.main{
+    zoom:1.5;
+     font-family: "latex";
+     font-size:1em;
+}
+
+
+.topsection{
+    padding-top:1em;
+    display:inline;
+}
+
+.topitem{
+    padding-left:1em;
+    padding-right:2em;
+    display:inline;
+}
+
+
+.topbreak{
+    margin-top:3.5em;
+}
+
+.l1{
+    font-size:1.25em;
+}
+
+.l1 img{
+    width:32px;
+}
+
+.l1 table tr td{
+    text-align: center;
+    padding-left:.25em;
+    padding-right:.25em;
+    padding-bottom:.5em;
+}
+
+.l1 table{
+    padding-bottom:2.5em;
+}
+
+
+.l2{
+    font-size:1.25em;
+}
+
+.l2 img{
+    width:32px;
+}
+
+.l2 table tr td{
+    text-align: center;
+    padding-left:.25em;
+    padding-right:.25em;
+    padding-bottom:.5em;
+}
+
+.l2 table{
+    padding-bottom:2em;
+}
+
+
+.l3{
+    font-size:1.25em;
+    padding-right:2em;
+}
+
+.l3 tr td{
+    padding-left:2em;
+}
+
+.l3 table{
+    padding-bottom:3em;
+}
+
+
+.l4{
+    font-size:1.25em;
+    padding-right:2em;
+}
+
+.l4 img{
+    width:16px;
+}
+
+
+.l4 tr td{
+    padding-left:.25em;
+    padding-bottom:.5em;
+}
+
+.l4 table{
+    padding-bottom:3em;
+}
+
+.l5break{
+    margin-top:6em;
+}
+
+.l5{
+    font-size:1.25em;
+    padding-left: 1em;
+    padding-right:3em;
+    display:inline;
+}
+
+.l5num{
+    font-size: .75em;
+    display:inline;
+    padding-right:1em;
+}
+
+.l7p{
+    font-size: 1em;
+    padding-right: 4em;
+    float:left;
+}
+
+
+.l7row{
+    float:left;
+}
+
+.l7num{
+    transform: translateY(2.25em);
+    font-size: .75em;
+    padding-left: 5em;
+    float:left;
+}
+
+.l7table{
+    padding-right:9em;
+}
+
+.l7break{
+    margin-top:1em;
+}
+
+.l18{
+    padding-bottom:2em;
+}
+
+.l18 td{
+    text-align: center;
+}
+
+
+@page {
+  size: 8.5in 11in;
+}
